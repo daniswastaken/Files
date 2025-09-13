@@ -1,3 +1,6 @@
+**/old/**
+**/wip/**
+.idea/
 **TODO**
 .env
 node_modules/
